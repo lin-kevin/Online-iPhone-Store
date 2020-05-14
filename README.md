@@ -1,3 +1,4 @@
-# mischiefapp-angular
+# My First Angular App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/mischiefapp-angular)
+[Edited on StackBlitz ⚡️](https://stackblitz.com/edit/mischiefapp-angular)
+Followed tutorial on angular.io 
